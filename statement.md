@@ -5,7 +5,7 @@ The CodinGame Java online tests assess candidates' skills. They are perfect for 
 ## Java Language
 These questions check the candidate’s ability to use functionalities that are well-known to Java developers. Using the correct APIs and data structures determine the candidate's level of experience in the practice of the Java programming language. This skill is particularly important if you are looking for a developer who has to be quickly operational in a Java working environment.
 
-An example of very simple task we provide consists in writing a method which takes a string `str` as parameter and returns `true` if it equals to `"Hello World"`, `false` otherwise.
+An example of very simple task we provide consists in writing a method which returns `true` if the parameter equals to `"Hello World"`, `false` otherwise.
 
 ```java runnable
 // { autofold

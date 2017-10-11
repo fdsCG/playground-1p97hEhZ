@@ -28,7 +28,9 @@ static boolean isHelloWord(String str) {
 //}
 ```
 
-Too much simple, isn't it?  
+Too much simple, isn't it?
+
+
 See some stats among all candidates who take this test:
 - 4% did not write a solution which success (complilation error / the test fails)
 - 24% write `return str == "Hello World";` scary!

@@ -7,19 +7,19 @@ These questions check the candidate’s ability to use functionalities that are 
 
 An example of very simple task we provide consists in writing a method which takes a string `str` as parameter and returns `true` if it equals to `"Hello World"`, `false` otherwise.
 
-```java runnable
+```java
 // { autofold
 public class Main {
 
-    public static void main(String[] args) {
-        isHelloWord(new String("Hello World"));
-    }
+    
+public static void main(String[] args) {
+    isHelloWord(new String("Hello World"));
+}
 // }
 
+/** Returns true if str is equal to "Hello World", false otherwise. **/
 static boolean isHelloWord(String str) {
-    return str == "Hello World"; // scary code
-    return str.equals("Hello World"); // correct, but what happens if str is null?
-    return "Hello World".equals(str); // expected solution
+    return ??
 }
 
 //{ autofold

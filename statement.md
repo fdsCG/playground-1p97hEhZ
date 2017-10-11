@@ -5,7 +5,7 @@ The CodinGame Java online tests assess candidates' skills. They are perfect for 
 ## Java Language
 These questions check the candidate’s ability to use functionalities that are well-known to Java developers. Using the correct APIs and data structures determine the candidate's level of experience in the practice of the Java programming language. This skill is particularly important if you are looking for a developer who has to be quickly operational in a Java working environment.
 
-An example of very simple task we provide consists in writing a method which returns `true` if the parameter equals to `"Hello World"`, `false` otherwise.
+An example of very simple task we provide consists in writing a method which returns `true` if the parameter equals to `"Hello World"`, `false` otherwise. The candidate has 2 minutes to solve it.
 
 Try it yourself:
 ```java runnable
@@ -28,7 +28,8 @@ static boolean isHelloWord(String str) {
 //}
 ```
 
-See some interesting stats among all candidates who take this test:
+Too much simple, isn't it?  
+See some stats among all candidates who take this test:
 - 4% did not write a solution which success (complilation error / the test fails)
 - 24% write `return str == "Hello World";` scary!
 - 57% write `return str.equals("Hello World");` correct, but what happens if `str` is null?

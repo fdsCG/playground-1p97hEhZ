@@ -38,8 +38,8 @@ See some stats among all candidates who take this test:
 - **19% write the expected code `return "Hello World".equals(str);`**
 
 What we learned here? 
-- 1 programmer among 5 is not able to write a very simple line of Java code
-- 1 programmer among 5 is able to write the expected solution
-- 3 programner among 5 is able to write a very simple line of Java code
+- 1 programmer among 5 is not able to write a very simple line of code in Java (useful information to stop the hiring process quickly)
+- 3 programner among 5 is able to write a very simple line of code
+- 1 programmer among 5 is able to solve this simple problem the right way
 
 

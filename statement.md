@@ -7,7 +7,7 @@ These questions check the candidate’s ability to use functionalities that are 
 
 An example of very simple task we provide consists in writing a method which takes a string `str` as parameter and returns `true` if it equals to `"Hello World"`, `false` otherwise.
 
-```java
+```java autorun
 // { autofold
 public class Main {
 

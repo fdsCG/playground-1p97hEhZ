@@ -26,3 +26,8 @@ static boolean isHelloWord(String str) {
 }
 //}
 ```
+
+30% of the candidates write: `return str == "Hello World";` scary!
+55% write `return str.equals("Hello World");` correct, but what happens if `str` is null?
+15% write `return "Hello World".equals(str);` expected solution
+

@@ -31,7 +31,7 @@ static boolean isHelloWord(String str) {
 Too much simple, isn't it?
 
 
-See some stats among all candidates who take this test:
+See some stats among all candidates who took this test:
 - 4% did not write a solution which success (complilation error / the test fails)
 - 14% write `return str == "Hello World";` scary!
 - 63% write `return str.equals("Hello World");` correct, but what happens if `str` is null?

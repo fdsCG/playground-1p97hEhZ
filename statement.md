@@ -33,7 +33,13 @@ Too much simple, isn't it?
 
 See some stats among all candidates who take this test:
 - 4% did not write a solution which success (complilation error / the test fails)
-- 24% write `return str == "Hello World";` scary!
-- 57% write `return str.equals("Hello World");` correct, but what happens if `str` is null?
-- **15% write the expected code `return "Hello World".equals(str);`**
+- 14% write `return str == "Hello World";` scary!
+- 63% write `return str.equals("Hello World");` correct, but what happens if `str` is null?
+- **19% write the expected code `return "Hello World".equals(str);`**
+
+What we learned here? 
+- 1 programmer among 5 is not able to write a very simple line of Java code
+- 1 programmer among 5 is able to write the expected solution
+- 3 programner among 5 is able to write a very simple line of Java code
+
 

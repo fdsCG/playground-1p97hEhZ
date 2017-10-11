@@ -24,7 +24,5 @@ static boolean isHelloWord(String str) {
 
 //{ autofold
 }
-
-}
 //}
 ```

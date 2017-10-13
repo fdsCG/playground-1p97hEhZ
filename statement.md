@@ -39,7 +39,7 @@ See some stats among all candidates who took this test:
 
 What we learned? 
 - 1 programmer among 5 is not able to write a very simple line of code in Java (useful information to stop the hiring process quickly)
-- 3 programner among 5 is able to write a very simple line of code
+- 3 programmer among 5 know how to check strings equality in Java
 - 1 programmer among 5 is able to solve this simple problem the right way
 
 

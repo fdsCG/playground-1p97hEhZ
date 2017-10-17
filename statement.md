@@ -18,7 +18,7 @@ public static void main(String[] args) {
     boolean t1 = isHelloWord(new String("Hello World"));
     boolean t2 = !isHelloWord(null);
     
-    System.out.println("TECHIO> success " + t1 && t2);
+    System.out.println("TECHIO> success " + (t1 && t2));
     
     if (t0 && !t1) System.out.println("TECHIO> message '😱😱😱'");
     if (t1 && !t2) System.out.println("TECHIO> message 'correct but what happens if `str` is null? 🤔'");

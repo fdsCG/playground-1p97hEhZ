@@ -16,7 +16,7 @@ public class Main {
 public static void main(String[] args) {
     boolean t0 = isHelloWord("Hello World");
     boolean t1 = isHelloWord(new String("Hello World"));
-    boolean t2 = isHelloWord(null);
+    boolean t2 = !isHelloWord(null);
     
     System.out.println("TECHIO> success " + t1 && t2);
     

@@ -14,7 +14,8 @@ public class Main {
 
     
 public static void main(String[] args) {
-    isHelloWord("Hello World");
+    boolean b = isHelloWord(new String("Hello World")) && isHelloWord(null) && ;
+    System.out.println("TECHIO> success " + b);
 }
 // }
 
